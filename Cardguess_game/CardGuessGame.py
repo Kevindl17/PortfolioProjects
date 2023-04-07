@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[ ]:
 
 
 import random
@@ -34,7 +34,6 @@ for i in range(2,11):
 guessCount = 0
 print ("\033[4m\033[1mThis game has been played", played_times, "times")
 print("Can you beat", fewest_guesses, "guesses?\033[0m")
-print(suitchoice, number)
 
 Guess_Suit = input("Start by guessing the Suit: (Diamonds, Hearts, Clubs or Spades) ")
 
