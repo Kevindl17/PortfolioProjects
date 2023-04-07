@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 
 All of these folders are different Python programs that I have written since August 2022. 
 Feel free to navigate the different folders and check out the code that I have written. There are also individual README files for every single program!
