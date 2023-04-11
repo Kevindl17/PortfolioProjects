@@ -5,6 +5,8 @@ I am Kevin de Lange, an Information Systems Management student at Shawnee State 
 
 All of these folders are different Python programs that I have written since August 2022. 
 Feel free to navigate the different folders and check out the code that I have written. There are also individual README files for every single program!
+### <ins> Facility Address Project </ins>
+- As part of my internship, I created a Python program that used the Google Maps Api to find the addresses of more than 5000 sports facilities throughout the US. The company agreed that it would be impossible to find the addresses with a 100% accuracy and was only looking to get the addresses to have a rough estimate of where all their facilities were located.
 ### <ins> Card Guesser Game </ins>
 - This Python code is a simple card guesser game. The game starts off by asking the user which suit the card is, and tells the user when it is a correct guess or if the guess is wrong. After the suit has been guessed correctly, the program asks the user to input which number is on the card. This program also has a database connected to it that saves the personal record of fewest guesses and the number of times the game has been played. When the user starts the game, it shows the number of times played and also the fewest guesses.
 ### <ins> Date Calculator </ins>
