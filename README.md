@@ -6,7 +6,7 @@ I am Kevin de Lange, an Information Systems Management student at Shawnee State 
 All of these folders are different Python programs that I have written since August 2022. 
 Feel free to navigate the different folders and check out the code that I have written. There are also individual README files for every single program!
 ### <ins> Sales Data SQL Project </ins>
-- The SQL file in this project is a simple analysis of a sample sales database. When I first downloaded this salesdata from Kaggle, I used Excel to do datacleaning and to split the data up into two tables: the sales table, and the customer table. Once the cleaning was done, I imported the two cvs files into MySQL and started writing SQL code. My main goal was to query data from these datatables, which in a later project could be turned into Tableau graphs.
+- The SQL file in this project is a simple analysis of a sample sales dataset. When I first downloaded this salesdata from Kaggle, I used Excel to do datacleaning and to split the data up into two tables: the sales table, and the customer table. Once the cleaning was done, I imported the two cvs files into MySQL and started writing SQL code. My main goal was to query data from these datatables, which in a later project could be turned into Tableau graphs.
 ### <ins> Facility Address Project </ins>
 - As part of my internship, I created a Python program that used the Google Maps Api to find the addresses of more than 5000 sports facilities throughout the US. The company agreed that it would be impossible to find the addresses with a 100% accuracy and was only looking to get the addresses to have a rough estimate of where all their facilities were located.
 ### <ins> Card Guesser Game </ins>
